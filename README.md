@@ -1,5 +1,6 @@
 # leideng
 ICASSP Reply
+Regarding the research on data generalization and the diversity of test samples, we have conducted experiments on samples with other different defect shapes, such as the following two samples: Sample 1 consists of four connected rectangles with different depths, and the defect depth of specific regions is shown in the standard diagram below; Sample 2 is an inclined surface with a continuous defect depth variation from 0.5 mm to 1.5 mm. The test results of the proposed method on these samples are presented in the figures below.
 <!-- 插入图片1 -->
 ![图片1](https://raw.githubusercontent.com/mjlhking/leideng/main/ICASSP/4.png)
 
