@@ -7,6 +7,7 @@ Regarding the research on data generalization and the diversity of test samples,
 <!-- 插入图片2 -->
 ![图片2](https://raw.githubusercontent.com/mjlhking/leideng/main/ICASSP/5.png)
 
+The scatter plot distribution of predicted values on the test set consisting of 15% of the data,PLA defect depth estimation. (a) ConvNeXt; (b) VIT; (c) EfficientNetV2; (d) RegNet; (e) ResNet; (f) VAE; (g) PQTNet (Ours). 
 <!-- 插入图片3 -->
 ![图片3](https://raw.githubusercontent.com/mjlhking/leideng/main/ICASSP/3.png)
 
